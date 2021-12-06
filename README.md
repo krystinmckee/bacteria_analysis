@@ -1,1 +1,1 @@
-# bacterria_analysis
+# bacteria_analysis
